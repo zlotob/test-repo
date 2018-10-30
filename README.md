@@ -1,29 +1,31 @@
+# -*- coding: utf-8 -*-
+
 # test-repo
 
 Pierwsze kroki.
 
-# nag³ówek H1
-## nag³ówek H2
-### nag³ówek H3
-#### nag³ówek H4
-##### nag³ówek H5
-###### nag³ówek H6
+# nagÂ³Ã³wek H1
+## nagÂ³Ã³wek H2
+### nagÂ³Ã³wek H3
+#### nagÂ³Ã³wek H4
+##### nagÂ³Ã³wek H5
+###### nagÂ³Ã³wek H6
 
 Dobre README zawiera:
 
-- Tytu³ i œródtytu³y
-- Wprowadzenie – cel projektu
-- Technologie + ich wersje (jêzyk, frameworki, biblioteki itp)
+- TytuÂ³ i Å“rÃ³dtytuÂ³y
+- Wprowadzenie â€“ cel projektu
+- Technologie + ich wersje (jÃªzyk, frameworki, biblioteki itp)
 - Uruchomienie
 
-Dodatkowo warto zawrzeæ:
+Dodatkowo warto zawrzeÃ¦:
 
-- Spis treœci
+- Spis treÅ“ci
 - Ilustracje
-- Zakres funkcjonalnoœci
-- Przyk³ady u¿ycia
+- Zakres funkcjonalnoÅ“ci
+- PrzykÂ³ady uÂ¿ycia
 - Status projektu
-- ród³a
+- ÂrÃ³dÂ³a
 - Inne informacje
 
 FORMATOWANIE README
